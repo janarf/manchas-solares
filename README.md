@@ -1,9 +1,13 @@
 # Trabalho de Métodos computacionais em Física sobre análise exploratória de dados de manchas solares 
 
+Trabalho final da disciplina: http://lilith.fisica.ufmg.br/~guerrero/fis045.html
+Realizado no primeiro semestre de 2018.
+
 Análise exploratória dos dados de manchas solares, visualização, análise estatística e aplicação de métodos clássicos a partir do livro: 
 
 ### Practical Time Series Analysis
 Master Time Series Data Processing, Visualization and Modeling using Python
+
 Dr. Avishek Pal, Dr. PKS Prakash
 
 ## Tópicos abordados
