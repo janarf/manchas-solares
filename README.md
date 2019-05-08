@@ -14,3 +14,4 @@ Dr. Avishek Pal, Dr. PKS Prakash
 - Capítulo 5: Deep Learning para predição de série temporal
 
 
+https://github.com/janarf/manchas-solares/blob/master/manchas%20solares/final-trabalhomanchassolares.ipynb
