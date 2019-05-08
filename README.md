@@ -1,2 +1,1 @@
-# manchas-solares
-Trabalho sobre análise de dados de manchas solares
+# Trabalho de Métodos computacionais em Física sobre análise exploratória de dados de manchas solares 
