@@ -1,4 +1,4 @@
-https://github.com/janarf/manchas-solares/blob/master/manchas%20solares/final-trabalhomanchassolares.ipynb
+https://janarf.github.io/manchas-solares/
 
 # Trabalho de Métodos Computacionais em Física 
 
@@ -22,7 +22,7 @@ As manchas solares são a contagem de manchas na face visível do sol. Dados di�
 
 Da mesma forma que em um dínamo eletromagnético temos uma espira rotacionando em um campo magnético temos um fluxo espiral de plasma (que também são bons condutores de calor) dentro do sol.
 
-O sol apresenta atividade cíclica com duração média de 11 anos e amplitude variável. A importância dos dados de manchas solares fica evidente quanto utilizados para modelar e prever a amplitude do próximo ciclo solar: previsões atuais são variada e contraditórias, variando de intensidade baixa até moderada.
+O sol apresenta atividade cíclica com duração média de 11 anos e amplitude variável. A importância dos dados de manchas solares fica evidente quando utilizados para modelar e prever a amplitude do próximo ciclo solar: previsões atuais são variada e contraditórias, variando de intensidade baixa até moderada.
 
 Previsões da intensidade da atividade solar são importantes para agricultura, telecomunicações e astronomia entre outros.
 
